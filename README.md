@@ -1,18 +1,18 @@
-### Oiii! Eu sou Estevão   
+# Oi! 👋
 
-<div>   
-  <a href="https://github.com/Estevao3">   
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Estevao3&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>   
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Estevao3&layout=compact&langs_count=7&theme=merko"/> 
- </div> 
-  
-  <div style="display: inline_block"> <br>   
-    <img align="center" alt="Estev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">   
-    <img align="center" alt="Estev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
-    <img align="center" alt="Estev-PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img align="center" alt="Estev-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
-    <img align="right" alt="Estev-naruto" height="100" width="110" src="https://c.tenor.com/vgS3-AbN_cEAAAAC/naruto-uzumaki-anime.gif"> 
-  </div>   
+Sou Estevão. Gosto de estudar, experimentar ferramentas e encontrar maneiras de organizar melhor minhas ideias.
 
+Uso bastante o Obsidian e, com o tempo, comecei a criar alguns plugins para adaptar o aplicativo à minha forma de trabalhar.
+
+### Algumas coisas que estou criando
+
+- [Smart References](https://github.com/Estevao3-Obsidian-Plugins/smart-references) — para conectar trechos de texto a referências internas.
+- [Smart Link](https://github.com/Estevao3-Obsidian-Plugins/smart-link) — para criar links com textos personalizados e referências a blocos.
+
+Ainda são projetos em desenvolvimento, mas pretendo continuar experimentando e melhorando cada um deles.
+
+### Meus projetos
+
+[Estevao3 Obsidian Plugins](https://github.com/Estevao3-Obsidian-Plugins)
   
-  ![Snake animation](https://github.com/Estevao3/Estevao3/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Estevao3/Estevao3/blob/output/github-contribution-grid-snake.svg)
